@@ -64,6 +64,7 @@ class FrontController extends Controller
             "notification" => [
                 "title" => $request->title,
                 "body" => $request->body,
+                "image" => "https://pbs.twimg.com/profile_images/1277077595880734728/LTlPvsnk_400x400.jpg",
             ]
         ];
         $dataString = json_encode($data);
