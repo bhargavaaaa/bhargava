@@ -68,8 +68,8 @@ return [
             'port' => 993,
             'encryption' => 'ssl',
             'validate_cert' => false,
-            'username' => 'chaniyarab.ap@gmail.com',
-            'password' => 'API!@#45',
+            'username' => '',
+            'password' => '',
             // 'authentication' => 'oauth',
         ],
 
